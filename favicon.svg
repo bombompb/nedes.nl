@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Background circle (slightly inset for crisp edge) -->
+  <circle cx="8" cy="8" r="7.5" fill="#1e5eff"/>
+
+  <!-- Pixel-aligned N (hand-tuned for 16px clarity) -->
+  <path fill="#ffffff" d="
+    M4 12
+    V4
+    H6
+    L10 10
+    V4
+    H12
+    V12
+    H10
+    L6 6
+    V12
+    Z
+  "/>
+</svg>
